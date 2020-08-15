@@ -1,5 +1,5 @@
-## Next Meeting: 8/29/20
-
+## Next Meeting:
+**8/29/20** - Belmar Library - Study Room #2 - 10:00 a.m.-11:00 a.m.
 
 ## Lesson 1: 8/15/20
 * Grounding and Expectations
@@ -42,5 +42,4 @@ Another goal is to understand and be able to leverage **Object-Oriented Programm
   * *Python Crash Course*, **Chapter 9: Classes**
   
    <img width="200" src="https://i.ibb.co/Y3kh4Ck/python-crash-course-chapter-9-oop.png" alt="python-crash-course-chapter-9-oop" border="0">  
-  
   
