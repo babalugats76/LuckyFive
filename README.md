@@ -1,7 +1,7 @@
 ## Next Meeting:
 **Saturday, 8/29/20** - Belmar Library - Study Room #2 - 10:00 a.m.-11:00 a.m.
 
-## Lesson 1: 8/15/20
+## Meeting #1: Saturday, 8/15/20
 * Grounding and Expectations
  > *In Programming, the things you think would be easy are hard and vice versa*
 
