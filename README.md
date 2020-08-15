@@ -23,7 +23,7 @@ Another goal is to understand and be able to leverage **Object-Oriented Programm
 
 * **Explore the `pickle` module referring to *Python for Kids***, Chapter 10, Using the pickle Module to Save Information
   
-  <img style="width: 200px; max-width: 100%; height: auto;" src="https://i.ibb.co/kxZCp1s/python-for-kids-pickle.png" alt="python-for-kids-pickle" border="0">
+  <img width="200" src="https://i.ibb.co/kxZCp1s/python-for-kids-pickle.png" alt="python-for-kids-pickle" border="0">
   
   See if you can pickle stuff and then get it "out of the jar" again
   
@@ -37,10 +37,10 @@ Another goal is to understand and be able to leverage **Object-Oriented Programm
   
   * *Python for Kids*, **Chapter 8: How to Use Classes and Objects**
     
-    <img style="width: 200px; max-width: 100%; height: auto;" src="https://i.ibb.co/QmXf1jL/python-for-kids-chapter-8-classes.png" alt="python-for-kids-chapter-8-classes" border="0">
+    <img width="200" src="https://i.ibb.co/QmXf1jL/python-for-kids-chapter-8-classes.png" alt="python-for-kids-chapter-8-classes" border="0">
    
   * *Python Crash Course*, **Chapter 9: Classes**
   
-   <img style="width: 200px; max-width: 100%; height: auto;" src="https://i.ibb.co/Y3kh4Ck/python-crash-course-chapter-9-oop.png" alt="python-crash-course-chapter-9-oop" border="0">  
+   <img width="200" src="https://i.ibb.co/Y3kh4Ck/python-crash-course-chapter-9-oop.png" alt="python-crash-course-chapter-9-oop" border="0">  
   
   
