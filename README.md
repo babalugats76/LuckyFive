@@ -1,5 +1,5 @@
 ## Next Meeting:
-**8/29/20** - Belmar Library - Study Room #2 - 10:00 a.m.-11:00 a.m.
+**Saturday, 8/29/20** - Belmar Library - Study Room #2 - 10:00 a.m.-11:00 a.m.
 
 ## Lesson 1: 8/15/20
 * Grounding and Expectations
