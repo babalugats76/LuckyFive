@@ -34,7 +34,7 @@ with a "flat file". So, imagine the data was stored in a file, let's say `ticket
 11,15,37,40,46
 ...
 ```
-Could you then, similarly, load the data, but this time working with Python's built-in file commands
+Could you then, similarly, load the data, but this time working with Python's built-in file commands?
 
 Working with files in Python is always the same **3-step process**:
 * open
