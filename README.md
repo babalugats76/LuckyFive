@@ -1,6 +1,45 @@
 ## Next Meeting:
-**Saturday, 8/29/20** - Belmar Library - Study Room #2 - 10:00 a.m.-11:00 a.m.
+**TBD** - JJ is going back East!
 
+## Meeting #2: Saturday, 8/29/20
+* PyCharm Project Setup, e.g., 'Run' configurations
+* `turtle` troubleshoot
+* `generate` function and refactor of original code to include recursion, appropriate data types
+
+### Homework
+Let's continue on with procedural version of *Lucky Five* program:
+* Add `setup.py` routine:
+    * Performs **one-time serialization** of past ticket numbers into a file using `pickle` module
+    * Can be run/tested using its own **run configuration**
+
+* Add `pastTickets` function to `main.py`
+    * Loads previously-serialized data from file using `pickle` module
+    * Returns list to caller using `return` keyword
+    * Name this function whatever you like :)
+    
+* Incorporate `pastTickets` into `generate`:
+    * Update to refer to newly-created `pastTickets` function:
+      ```
+      # loop through past winning tickets
+      for num in pastTickets():
+      ```
+### BONUS Extension
+If you find great success with the above, then I would explore how this would be done
+with a "flat file". So, imagine the data was stored in a file, let's say `tickets.csv` and it looked something like this:
+```
+14,15,16,39,42
+6,10,13,17,31
+5,6,23,33,45
+11,15,37,40,46
+...
+```
+Could you then, similarly, load the data, but this time working with Python's built-in file commands
+
+Working with files in Python is always the same **3-step process**:
+* open
+* read/write
+* close
+   
 ## Meeting #1: Saturday, 8/15/20
 * Grounding and Expectations
  > *In Programming, the things you think would be easy are hard and vice versa*
