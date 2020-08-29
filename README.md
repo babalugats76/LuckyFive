@@ -19,6 +19,7 @@ Let's continue on with procedural version of *Lucky Five* program:
     
 * Incorporate `pastTickets` into `generate`:
     * Update to refer to newly-created `pastTickets` function:
+    
       ```
       # loop through past winning tickets
       for num in pastTickets():
