@@ -1,6 +1,27 @@
 ## Next Meeting:
 **TBD** - JJ is going back East!
 
+## Meeting #3: Saturday, 10/10/20
+* Tkinter
+     * Performs **one-time serialization** of past ticket numbers into a file using `pickle` module
+* Questions
+     * Working with files is always a **three-step process**: open; read/write; close
+     * The `with` syntax is often used because it has the added benefit of closing the file object automatically
+     * When you open a file, you provide the file mode as an optional argument
+         * `r` (read) is the default (file must exist)
+         * `w` (write) will overwrite the file or create one if it does not exist
+         * `a` (append) will add contents to the end of the file (file must exist)
+         * `*b` any mode that ends in b, means that you are working with a binary file, e.g., pickled, multimedia content
+* Tkinter 
+     * Verify (from the command line, i.e., `cmd`)
+     * Make sure Python is in the path: `echo %PATH%`
+     * Verify version of Python: `python -V`
+     * `python -m tkinter` should launch a simple Tkinter project listing the version number, etc.
+     * <a href="https://github.com/babalugats76/TkinterTest/blob/main/main.py" target="_blank">Basic Tkinter Starter Project</a>
+     * Resources
+         * 
+* `generate` function and refactor of original code to include recursion, appropriate data types
+
 ## Meeting #2: Saturday, 8/29/20
 * PyCharm Project Setup, e.g., 'Run' configurations
 * `turtle` troubleshoot
