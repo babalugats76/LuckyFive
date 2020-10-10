@@ -1,9 +1,7 @@
 ## Next Meeting:
-**TBD** - JJ is going back East!
+**TBD** - Once New List of Questions Established
 
 ## Meeting #3: Saturday, 10/10/20
-* Tkinter
-     * Performs **one-time serialization** of past ticket numbers into a file using `pickle` module
 * Questions
      * Working with files is always a **three-step process**: open; read/write; close
      * The `with` syntax is often used because it has the added benefit of closing the file object automatically
@@ -19,8 +17,8 @@
      * `python -m tkinter` should launch a simple Tkinter project listing the version number, etc.
      * <a href="https://github.com/babalugats76/TkinterTest/blob/main/main.py" target="_blank">Basic Tkinter Starter Project</a>
      * Resources
-         * 
-* `generate` function and refactor of original code to include recursion, appropriate data types
+         * <a href="https://docs.python.org/3/library/tkinter.html" target="_blank">tkinter — Python interface to Tcl/Tk — Python 3.9.0 documentation</a>
+         * <a href="https://effbot.org/tkinterbook" target="_blank">An Introduction to Tkinter</a>
 
 ## Meeting #2: Saturday, 8/29/20
 * PyCharm Project Setup, e.g., 'Run' configurations
