@@ -3,13 +3,17 @@
 
 ## Meeting #3: Saturday, 10/10/20
 * Questions
-     * Working with files is always a **three-step process**: open; read/write; close
-     * The `with` syntax is often used because it has the added benefit of closing the file object automatically
-     * When you open a file, you provide the file mode as an optional argument
-         * `r` (read) is the default (file must exist)
-         * `w` (write) will overwrite the file or create one if it does not exist
-         * `a` (append) will add contents to the end of the file (file must exist)
-         * `*b` any mode that ends in b, means that you are working with a binary file, e.g., pickled, multimedia content
+     * Classes/Objects
+         * The `__init__` method is known as the **constructor** which creates object (instances)
+         * The `self` keyword is only used inside classes; it is a reference to the object itself
+     * Files
+         * Working with files is always a **three-step process**: open; read/write; close
+         * The `with` syntax is often used because it has the added benefit of closing the file object automatically
+         * When you open a file, you provide the file mode as an optional argument
+             * `r` (read) is the default (file must exist)
+             * `w` (write) will overwrite the file or create one if it does not exist
+             * `a` (append) will add contents to the end of the file (file must exist)
+             * `*b` any mode that ends in b, means that you are working with a binary file, e.g., pickled, multimedia content
 * Tkinter 
      * Verify (from the command line, i.e., `cmd`)
      * Make sure Python is in the path: `echo %PATH%`
