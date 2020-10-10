@@ -3,9 +3,9 @@
 
 ## Meeting #3: Saturday, 10/10/20
 * Questions
-     * Classes/Objects
-         * The `__init__` method is known as the **constructor** which creates object (instances)
-         * The `self` keyword is only used inside classes; it is a reference to the object itself
+     * Classes & Objects
+         * The `__init__` method is known as the **constructor**; it is like a factory that creates object (instances)
+         * The `self` keyword is only used inside classes; it serves as a reference to the object
      * Files
          * Working with files is always a **three-step process**: open; read/write; close
          * The `with` syntax is often used because it has the added benefit of closing the file object automatically
