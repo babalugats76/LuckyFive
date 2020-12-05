@@ -1,6 +1,28 @@
 ## Next Meeting:
 **TBD** - Once New List of Questions Established
 
+## Meeting #4: Saturday, 12/5/20
+* `pip`
+     * `pip` is **bundled** with Python
+     * Can be **used flexibly** from the command prompt (`cmd`)
+         * `python -m pip <command> <option>` → `python -m pip install pillow`
+         * `pip <command> <option>` → `pip install pillow`
+         * `pip3 <command> <option>` → `pip3 install pillow`
+* `pillow`
+    * Installed module via `pip` (via steps above)
+    * Confirmed `tkinter_test` program worked after install
+    * One of many ways to copy an image on Windows
+         * **Navigate** to target file
+         * Highlight; **right-click → copy**
+         * **Navigate** to destination, double-clicking into directories
+         * **Right-click → paste**
+* `jupyter` 
+    * Installed module via `pip` (via steps above)
+    * Practiced ability to **save** and **edit** notebook using Anaconda's Jupyter Notebook Application
+    * Created `Desktop\Jupyter` directory for `.ipynb` files 
+* [DATAQUEST](https://www.dataquest.io/)
+    * Worked through some exercises up to point where local Jupyter Notebook became necessary
+* Homework for JC → [The Education of a White Boy](https://www.authorjamesfjohnson.com/book-excerpts-blogs)
 ## Meeting #3: Saturday, 10/10/20
 * Questions
      * Classes & Objects
